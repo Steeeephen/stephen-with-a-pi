@@ -1,0 +1,39 @@
+1:
+    name: Waterfall
+    rule: Everyone starts drinking at the same time, you can stop when the person to your 'right' does
+2:
+    name: You
+    rule: Pick somebody to drink
+3:
+    name: Me
+    rule: You drink
+4:
+    name: Whores
+    rule: Girls drink
+5:
+    name: Dive
+    rule: Last one to cover their camera drinks
+6:
+    name: Dicks
+    rule: Guys drink
+7:
+    name: Heaven
+    rule: Last one to raise their hands drinks
+8:
+    name: Mates
+    rule: Pick somebody. When you drink, they drink; When they drink, you drink
+9:
+    name: Rhyme
+    rule: Say a word, go around the circle rhyming with it until someone can't. This person drink
+10:
+    name: Never Have I Ever
+    rule: Play Never Have I Ever going around the room with 3 lives, drink if you run out of lives
+11:
+    name: Rule
+    rule: Make a new rule
+12:
+    name: QuestionMaster
+    rule: You are now the question master. If anyone answers your questions while you're the question master, they drink
+13:
+    name: King
+    rule: Whoever picks the 4th King downs their drink
